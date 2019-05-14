@@ -31,9 +31,9 @@ NPM is packaged with NodeJS, so if you install NodeJS, you will get both pieces 
 If you are using **Mac/Linux**, use [this link for installation instructions](https://wsvincent.com/install-node-js-npm-mac/).
 If you are using **Windows**, use [this link for installation instructions](https://wsvincent.com/install-node-js-npm-windows/).
 
-### Installing Firefox
-Firefox is a great browser developed by Mozilla. 
-It is unlikely you don't yet have this browser installed, but if it is indeed missing, follow [this link to install](https://www.mozilla.org/en-US/firefox/new/).
+### Installing Opera Browser
+Opera is a web browser we will use in some of our tests. 
+Follow [this link to install](https://www.opera.com/).
 
 ## Installing Testing Software
 This tutorial uses several tools you will need to install:
@@ -77,3 +77,20 @@ Install using [this link](https://www.jetbrains.com/webstorm/download).
 ### Installing Visual Studio Code
 As a backup IDE, we will be using Visual Studio Code. 
 Install it using [this link](https://code.visualstudio.com/).
+
+## Cloning Repositories
+During this tutorial, we will be coding quite a bit. 
+Create a folder for the tutorial on your machine, and clone these source to your machine:
+* ```git clone -b student https://github.com/dmitryvinn/hello-country-react-live-demo.git```
+    * Use Intellij IDEA for this project
+    * Make sure to run ```npm install``` after cloning
+* ```git clone -b student https://github.com/dmitryvinn/calculator-demo-live.git```
+    * Use WebStorm Studio for this project
+    * Make sure to run ```npm install``` after cloning
+* ```git clone -b student https://github.com/dmitryvinn/hello-country-react-backstopjs.git```
+    * Use WebStorm Studio for this project
+    * Make sure to run ```npm install``` after cloning
+* ```git clone https://github.com/dmitryvinn/hello-country-android.git```
+    * Use Android Studio for this project
+* ```git clone -b student https://github.com/dmitryvinn/hello-country-webdriver-tests.git```
+    * Use Intellij IDEA for this project
