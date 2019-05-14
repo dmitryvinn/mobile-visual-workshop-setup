@@ -96,4 +96,4 @@ Create a folder for the tutorial on your machine, and clone these source to your
     * Use Intellij IDEA for this project
 
 ## Download Slides
-Slides are available [here](https://www.dropbox.com/s/4uhyphh5wlergir/%5BStudent%20Version%5D%20%5BWorkshop%5D%5BCurrent%5D%20Uphill%20Battle%20Of%20Mobile%20Visual%20Regression%20-%203.5%20hours%20version%2C%20workshop%20%281%29.pptx?dl=0).
+Slides are available [here](https://www.dropbox.com/s/y6pvq9fbvq8qaxf/%5BStudent%20Version%5D%20%5BWorkshop%5D%5BCurrent%5D%20Uphill%20Battle%20Of%20Mobile%20Visual%20Regression%20-%203.5%20hours%20version%2C%20workshop%20%282%29.pptx?dl=0).
